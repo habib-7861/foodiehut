@@ -1,0 +1,20 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 8px 4%;
+}
+
+.navbar .logo{
+    width: max(4%,50px);
+
+}
+.navbar .profile{
+    width: 50px;
+    border-radius: 50%;
+}
+.admin{
+    font-weight: bolder;
+    color:tomato;
+    font-size: 30px;
+}
